@@ -1,0 +1,22 @@
+.zelenka {
+    display: inline-block;
+    border: forestgreen  10px solid;
+
+}
+
+#eod {
+    max-width: 50px ;
+}
+
+.shrek {
+    display: inline-block;
+    /* border: forestgreen 49px solid; */
+    background: linear-gradient(45deg, #ffe600, #fd0000);
+
+}
+
+.the-wardo {
+    display: inline-block;
+    border: goldenrod 100px solid;
+
+}

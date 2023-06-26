@@ -1,0 +1,129 @@
+body {
+    background-color: #ECFFB4;
+}
+h2 {
+    font-family: 'Verdana';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 13px;
+}
+.veshalka {
+    display: inline-block;
+    margin-right: 148px;
+}
+.doshik {
+    background-color: #FFCD1B;
+}
+.naushniki {
+    margin-right: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+.kloun {
+    font-weight: 700;
+    text-align: center;
+}
+.cirk {
+    text-align: center ;
+}
+.joker {
+    display: inline-block ;
+}
+.harlyqween {
+    display: inline-block;
+}
+
+.lekrolin {
+    background-color: ghostwhite;
+    margin: 30px;
+    border: #FFCD1B 10px solid;
+    font-size: 18px;
+}
+.polkovnik {
+    margin: 0 40px;
+    font-size: 24px ;
+}
+
+
+
+.desantnik {
+
+    float: left;
+    
+    
+}
+
+.ussr {
+    float: right;
+
+}
+.katana {
+    margin-top: 30px;
+}
+.polkovnik::after {
+
+    content: "";
+    display: table;
+    clear: both;
+}
+.xylite  {
+    display: inline-block;
+    
+
+}
+.tb::after {
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+.exactable {
+    border: black 6px solid;
+    letter-spacing: 4px;
+    font-size: 40px;
+    float: right ;
+}
+.deck {
+    font-size: 40px;
+    width: 1876px; 
+    
+}
+.trojan {
+    width: 178px;
+
+}
+.maldivian {
+    width: 1648px;
+}
+.deck:after {
+    content:'';
+    display:table;
+    clear:both;
+}
+.sig {
+    margin-right: 456px;
+}
+
+#rubbish {
+    background-color:darkorange;
+
+}
+#massacre {
+    width: 30px;
+
+}
+
+#grifel {
+    width: 30px;
+}
+.kakashka {
+    display: inline-block;
+
+}
+
+#aizerbaidzan {
+    display:none;
+    width: 456px
+}

@@ -1,0 +1,42 @@
+body {
+    background-color:rgb(9, 255, 0);
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614550101_1-p-memi-na-belom-fone-1.png) ;
+}
+
+.mem {
+    color: maroon;
+}
+
+.mem-2 {
+    max-width: 1000px ; 
+}
+
+h1 {
+    
+    font-size: 64px;
+
+    font-family:    Impact ;
+
+    font-style: italic ;
+    font-weight: 900 ; 
+    text-align: left ;
+    text-transform: uppercase ;
+    text-shadow: blue -83px 50px 9px ;
+   }
+
+.mem-3 {
+border: red 10px double ;
+padding: 5px;
+font-weight: 900 ; 
+font-family:    Impact ;
+margin: 16px 10px 15px 17px;
+display: inline-block   ;
+
+}
+
+#mem-4{
+    /* text-align: right ; */
+    text-transform: uppercase ; 
+
+}
+
